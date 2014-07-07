@@ -1,0 +1,19 @@
+{
+  "author": "Timothy Wu",
+  "name": "replaceme_practice_tim",
+  "description": "Practice project from http://decodize.com/javascript/build-nodejs-npm-installation-package-scratch/#json",
+  "version": "0.1.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "bin": {
+    "replaceme": "./bin/replaceme"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
