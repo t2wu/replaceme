@@ -1,19 +1,22 @@
 {
-  "author": "Timothy Wu",
-  "name": "replaceme_practice_tim",
-  "description": "Practice project from http://decodize.com/javascript/build-nodejs-npm-installation-package-scratch/#json",
-  "version": "0.1.1",
-  "repository": {
-    "url": ""
-  },
-  "main": "./lib/main",
+  "name": "replaceme_tim",
+  "version": "0.0.0",
+  "description": "Test",
+  "main": "main.js",
   "bin": {
-    "replaceme": "./bin/replaceme"
+    "replaceme_tim": "replaceme.js"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {},
-  "engines": {
-    "node": "*"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t2wu/replaceme.git"
+  },
+  "author": "Timothy Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t2wu/replaceme/issues"
+  },
+  "homepage": "https://github.com/t2wu/replaceme"
 }
